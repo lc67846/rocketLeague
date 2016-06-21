@@ -1,0 +1,9 @@
+* {
+  font-family: monospace;
+}
+.centered {
+  text-align: center;
+}
+.renders {
+  position: relative;
+}
